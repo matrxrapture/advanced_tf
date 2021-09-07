@@ -1,0 +1,14 @@
+# pylint: skip-file
+
+
+# Building Tensorflow
+tensorflow-gpu
+pydot
+# Needed for development.
+pylint
+pytype
+yapf
+sklearn
+matplotlib
+pandas
+openpyxl
